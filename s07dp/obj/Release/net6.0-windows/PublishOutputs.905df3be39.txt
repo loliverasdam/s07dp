@@ -1,0 +1,5 @@
+C:\Users\Lluc\source\repos\s07dp\s07dp\bin\Release\net6.0-windows\publish\s07dp.exe
+C:\Users\Lluc\source\repos\s07dp\s07dp\bin\Release\net6.0-windows\publish\s07dp.dll
+C:\Users\Lluc\source\repos\s07dp\s07dp\bin\Release\net6.0-windows\publish\s07dp.deps.json
+C:\Users\Lluc\source\repos\s07dp\s07dp\bin\Release\net6.0-windows\publish\s07dp.runtimeconfig.json
+C:\Users\Lluc\source\repos\s07dp\s07dp\bin\Release\net6.0-windows\publish\s07dp.pdb

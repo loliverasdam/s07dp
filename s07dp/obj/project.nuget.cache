@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MjVT+n7RPJG79ZlS3drAgrfW5A681Z8aYLHIbv5PylQCQGwabdhiVHiceAIKiQPXY9tS1MNyNf6hr8yvNE59wg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lluc\\source\\repos\\s07dp\\s07dp\\s07dp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lluc\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.10\\microsoft.netcore.app.runtime.win-x64.6.0.10.nupkg.sha512",
+    "C:\\Users\\Lluc\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.10\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.10.nupkg.sha512",
+    "C:\\Users\\Lluc\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.10\\microsoft.aspnetcore.app.runtime.win-x64.6.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
